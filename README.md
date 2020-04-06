@@ -26,3 +26,4 @@
 
 [[Learn Korean Language] 1. Korean alphabet](https://www.youtube.com/watch?v=0ZhOeA0RD9o)
 
+[One-Stop Guide to Korean Particles - 은/는/이/가](https://www.youtube.com/watch?v=fCxLNRLntc0)
