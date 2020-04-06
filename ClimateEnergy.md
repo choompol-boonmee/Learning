@@ -61,3 +61,9 @@ https://www.youtube.com/watch?v=wL9PcGu_xrA&feature=emb_logo
 ==== A radical plan to end plastic waste 
 https://www.youtube.com/watch?v=I5g9-4fx60A
 
+==== How much is enough?
+https://www.youtube.com/watch?v=dFlYnL_SHQc
+
+==== The thrilling potential for off-grid solar energy
+https://www.youtube.com/watch?v=20adDr7Felw
+
