@@ -1,11 +1,16 @@
-==== Why the majority is always wrong
-https://www.youtube.com/watch?v=VNGFep6rncY&t=542s
+
+[When children tell lies - Maggie Dent](https://www.youtube.com/watch?v=ilaVIbo3ELE)
+
+[Stop Stealing Childhood in the Name of Education](https://www.youtube.com/watch?v=r86LVLFnDNM)
+
+[Why the majority is always wrong](https://www.youtube.com/watch?v=VNGFep6rncY&t=542s)
+
 - Thinking's purpose is to stop thinking => automatic pilot
 - Box boundary: 1.Legal 2.Tech 3.Physic 4.Moral
 - industry standard/norm
 
-==== The Skill of Humor
-https://www.youtube.com/watch?v=MdZAMSyn_As
+[The Skill of Humor](https://www.youtube.com/watch?v=MdZAMSyn_As)
+
 Fake it until become it
 Smile
 Humor is salt in a meal
@@ -14,27 +19,20 @@ Humor is salt in a meal
 3. Practice, Perform, Repeat
 Make choice
 
-==== Is Time an Illusion? Why does Time Exist?
-https://www.youtube.com/watch?v=7cJO3sHm7-s
+[Is Time an Illusion? Why does Time Exist?](https://www.youtube.com/watch?v=7cJO3sHm7-s)
 
-==== What Is Consciousness?
-https://www.youtube.com/watch?v=qjfaoe847qQ
+[What Is Consciousness?](https://www.youtube.com/watch?v=qjfaoe847qQ)
 
-==== What is consciousness?
-https://www.youtube.com/watch?v=MASBIB7zPo4
+[What is consciousness?](https://www.youtube.com/watch?v=MASBIB7zPo4)
 
-==== Are you a body with a mind or a mind 
-https://www.youtube.com/watch?v=ILDy6kYU-xQ&list=PLJicmE8fK0EiQLKEhNM8qJL8ExHwQZh_0
+[Are you a body with a mind or a mind ](https://www.youtube.com/watch?v=ILDy6kYU-xQ&list=PLJicmE8fK0EiQLKEhNM8qJL8ExHwQZh_0)
 - double hand illusion
 
-==== Is Time an Illusion? Why does Time Exist?
-https://www.youtube.com/watch?v=7cJO3sHm7-s
+[Is Time an Illusion? Why does Time Exist?](https://www.youtube.com/watch?v=7cJO3sHm7-s)
 
-==== Entanglement Theory may Reveal a Reality we can't Handle
-https://www.youtube.com/watch?v=OefsPBDOcFE
+[Entanglement Theory may Reveal a Reality we can't Handle](https://www.youtube.com/watch?v=OefsPBDOcFE)
 
-==== The danger of AI is weirder
-https://www.youtube.com/watch?time_continue=7&v=OhCzX0iLnOc&feature=emb_logo
+[The danger of AI is weirder](https://www.youtube.com/watch?time_continue=7&v=OhCzX0iLnOc&feature=emb_logo)
 
 ==== Homemade Silicon ICs
 https://www.youtube.com/watch?v=XrEC2LGGXn0&feature=emb_logo
