@@ -57,3 +57,7 @@ https://www.ebay.com/itm/DC-3-6V-Gear-Motor-N20-Speed-Reduction-Micro-Electric-M
 
 ==== DIY Solar Tracking System Inspired by NASA
 https://www.youtube.com/watch?v=wL9PcGu_xrA&feature=emb_logo
+
+==== A radical plan to end plastic waste 
+https://www.youtube.com/watch?v=I5g9-4fx60A
+
