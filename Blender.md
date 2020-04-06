@@ -16,3 +16,233 @@ https://www.youtube.com/watch?v=5lr8QnR5WWU&t=679s
 Blender Guru
 https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
 
+===== The Complete Beginners Guide to Animation in Blender 2.8
+https://www.youtube.com/watch?v=zp6kCe5Kmf4
+
+===== [2.8] Blender Tutorial: Simple Animation For Beginners
+https://www.youtube.com/watch?v=Dyj0sJVd3Lw
+
+===== Blender 2.8 Tutorial : Rig ANY Character for Animation in 10 Minutes
+https://www.youtube.com/watch?v=SBYb1YmaOMY
+
+===== Beginner Video Editing Tutorial Using Blender 2.8
+https://www.youtube.com/watch?v=bvr54FtfYl4
+
+===== Blender Video Editor Short Beginner Tutorial
+https://www.youtube.com/watch?v=Ss0ATxE0bNI
+
+===== 1) Blender for Blogs | Promo Video (4:07)
+https://www.youtube.com/watch?v=RViX4Tn_tGs
+
+===== 2) Blender for Blogs | Why use Blender as a Video Editor?
+https://www.youtube.com/watch?v=jKRxuhgEjoA
+
+===== 3) Blender for Blogs | Blender's Editing Workflow
+https://www.youtube.com/watch?v=Pm9O-UtYwIE
+
+===== Low Poly Animals | Quick and Easy | Blender 2.8 | Basic Tutorial
+https://www.youtube.com/watch?v=6mT4XFJYq-4
+https://www.youtube.com/watch?v=456-XCXG_D0
+
+===== blender 2.8 | Complete Beginners Guide | Make a Sheep
+https://www.youtube.com/watch?v=wNQYhbvTJi8
+
+===== Ultimate Buyers Guide to Graphics Tablets
+https://www.youtube.com/watch?v=mUnblsyy8CU
+
+===== How to Create a Whiteboard Animation in ONE DAY
+https://www.youtube.com/watch?v=4nE6MciaRjo
+
+===== Fair Use on YouTube - BEST Tips for Avoiding Copyright on YouTube!!
+https://www.youtube.com/watch?v=6_WWRJ71Hqo
+
+
+
+b : 
+shift + b:
+home
+ctrl+middle mouse: zoom
+shift + left:
+right click on button to show menu
+resolution to make move faster
+av sync option
+name = _0101
+save as (~s) +/-
++/- zoom menu
+Copy -> Full Copy
+Alt + R => clear rotation
+Alt + G => clear 
+camera -> lens -> type -> authographic
+view scale -> grid scale
+add bezier curve
+snap -> screen up + middle 
+edit mode -> v -> vector
+
+Blender for Blogs | Phase 1 - Part 1: Importing Your Footage
+ctrl + shift + s => save
+ctrl + c at any cursor
+page up /down
+shift left/right
+shift s => snap
+release confirm => when drop
+N -> properties
+  proxy transcate
+View setting => 25%
+User pref -> Add-ons -> kino -> Sequencer Kinoraw Tool
+View -> show offset
+clear offset -> back to all viedo | alt + o
+K -> Soft cut
+Shift K -> hard cut
+Time line -> hit e -> set the end time frame
+g + cntrl => snap to others
+shift + space => maximize screen
+
+https://blenderfrenzy.com/tag/blog/page/4/
+Oliver Villar
+Alamayo Arango
+Film Riot
+Mikeycal Meyersblen
+Yogyog : Blender and Bad green screen
+
+
+Node editor
+Use Node
+Add-ons -> Node -> Node Wrangler
+Control + shift + click on Image or Rander
+
+Black drop on the bottom, workflow
+v -> zoom
+Shift + Space bar
+Mask keying node
+	key color
+	Preblur
+	Screen balance
+Mask
+	Clip black
+	Clip white
+Edges
+	Edge Kernel Radius
+
+Mask -> Box Mask Node
+Color Inverse Node
+All Alpha Color Node
+Distort Scale Node
+
+PNG -> Alpha
+image color strip
+blend mode from cross -> drop over
+Add -> effect strip -> color
+Ctrl+G => grou
+
+Image offset
+Add effect cross
+
+m: marker
+ctrl+m: naming marker
+Add modifier: color balance
+Add effect -> wipe / angle / over drop
+Ctrl+A => 
+
+1001fonts.com
+
+y -> separate image
+separate gif into frames
+OBS Studio
+
+Alt = orbit
+Ctrl + Alt = zoom
+Shift + Alt = pan
+Shift + RC = cursor
+Ctrl + Tab = mode
+174252
+Shift + <- = home
+Ctrl + N => end frame
+Shift + S => cursor to the selected
+RC => Set origin
+Alt + D => Instance copy
+Time Offset Modifier
+Noise Modifier
+Tint Modifier
+Shift + RMS => Cursor
+
+===== Greese Pencil Animation
+https://www.youtube.com/watch?v=9N-glGarYuM
+
+===== โควิด-19" สงครามชีวภาพ ... เรื่องจริงหรือแค่ทฤษฎีสมคบคิด
+https://www.youtube.com/watch?v=6DMx66CkJsQ&feature=emb_logo
+
+
+https://www.uchicagomedicine.org/forefront/prevention-and-screening-articles/wuhan-coronavirus
+<iframe src='//players.brightcove.net/719220616001/SyEYuMqAz_default/index.html?videoId=6140562897001' allowfullscreen frameborder=0></iframe>
+
+===== Sculpt
+F => change sculpt radius
+Shift + F => change sculpt strength
+Shift => smooth the line
+Shift + S => Move cursor to selected
+RMS => Set origin to cursor
+
+In Graph Editor
+select the turning point
+T => Keyframe Interpolation => Linear
+
+===== Learn Grease pencil in Blender 2.82
+https://www.youtube.com/watch?v=9N-glGarYuM
+
+===== blender 2.8 daily tip using video textures in blender
+https://www.youtube.com/watch?v=WqDz0jZlmiQ
+
+===== Blender - Hard Surface landscape in Blender 2.8
+https://www.youtube.com/watch?v=NOsImPUo1Vk
+
+===== Shattered Surface in Blender 2.8 in 1 minute tutorial.
+https://www.youtube.com/watch?v=4Nn0n6aEDBU
+
+===== What Can You Do With Blender 3D
+https://www.youtube.com/watch?v=2nzUNMTUGQE
+
+===== How Blender can Become industry Standard
+https://www.youtube.com/watch?v=SXKcSwYFgNQ
+
+===== is Blender Good for Game Development
+https://www.youtube.com/watch?v=gnqs1RD9tAY
+
+===== Why is Blender Free
+https://www.youtube.com/watch?v=yfg8ydtOUDg
+
+ubisoft
+epic game
+
+===== Why the NEW Blender 2.8 is a BIG DEAL
+https://www.youtube.com/watch?v=MyxWDHy4ppY
+
+===== Next Gen | Featurette: Story [HD] | Netflix
+https://www.youtube.com/watch?v=RXkfgrQghEk
+
+===== Next Gen | Now Streaming | Netflix
+https://www.youtube.com/watch?v=C0n5RVLeWAc
+
+===== Next Gen | Official Trailer [HD] | Netflix
+https://www.youtube.com/watch?v=uf3ALGKgpGU
+
+===== My Blender Simulations in HDR
+https://www.youtube.com/watch?v=nU6PF8vuEBk
+
+Understanding Color
+https://www.youtube.com/watch?v=Qj1FK8n7WgY
+
+Create a Subway in Blender in 20 minutes
+https://www.youtube.com/watch?v=nb6rSMAooDs
+
+===== The Secret Ingredient to Photorealism
+https://www.youtube.com/watch?v=m9AT7H4GGrA
+
+===== 12 Principles of Animation (Official Full Series)
+https://www.youtube.com/watch?v=uDqjIdI4bF4
+
+===== Modeling with a Grease Pencil (Blender 2.82 eevee)
+https://www.youtube.com/watch?v=tzOUO-ove0c
+
+===== 100 Blender 2.8 tips you might not know! 
+https://www.youtube.com/watch?v=_9dEqM3H31g
+
