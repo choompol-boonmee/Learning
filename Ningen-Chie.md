@@ -97,3 +97,6 @@ https://www.youtube.com/watch?v=IEz1P4i1P7s
 ==== A Cure for Ageing?: David Sinclair at TEDxSydney
 https://www.youtube.com/watch?v=vCCdmGKtxPA
 
+==== Quit Your Day Job and Live Out Your Dreams by Dr. Ken Atchity
+https://www.youtube.com/watch?v=y7yr-za_Meo
+
