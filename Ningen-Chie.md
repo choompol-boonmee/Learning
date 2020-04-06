@@ -100,3 +100,98 @@ https://www.youtube.com/watch?v=vCCdmGKtxPA
 ==== Quit Your Day Job and Live Out Your Dreams by Dr. Ken Atchity
 https://www.youtube.com/watch?v=y7yr-za_Meo
 
+==== The Illusion of Truth
+https://www.youtube.com/watch?v=cebFWOlx848
+
+You cannot make someone understand a message they are not ready to receive
+But we must never underestimate the power of planting a seed.
+
+===== The Halo Effect - Science of Attraction
+https://www.youtube.com/watch?v=ZuometYfMTk
+
+===== Looks aren't everything. Believe me, I'm a model
+https://www.youtube.com/watch?v=KM4Xe6Dlp0Y
+
+===== Why you feel what you feel | Alan Watkins | TEDxOxford
+https://www.youtube.com/watch?v=h-rRgpPbR5w
+
+Physical awareness
+1. Physical Self : (0-1)
+2. Emotional Self : (1-2)
+3. Conceptual Self : (3-6) (Learn 60 words/day)
+4. Rules Following Self : (6-9)
+5. Play against the rules
+Decease of Life
+Decease of Meaming
+Mental Pain
+Purgatory : Hell on Earth
+1. Anaesthetic : Block out the meaning of Life
+2. Distraction : 
+You think that the problem is out there.
+Emotional Experience (Energy in Motion)
+The problem is that we have not learn the emotion.
+Believe that other people are cause of our happyness.
+You do it your self.
+The simply truth takes you from victim position to ownership
+Find out where you are in the map.
+If you don't know where you are, you're lost.
+Navigation Capability Development
+If you got to constructive platnet, try to stay there.
+Try to manuvour by objectify the emotion
+to 'you've got it' instead of 'it's got you'.
+If you have not got control it somebody does.
+Emotion will predict your health, performance and wellbeing
+sense of fulfilment, 
+and determine your ability to make effective decisions.
+
+===== The mathematics of weight loss
+https://www.youtube.com/watch?v=vuIlsN32WaE&t=760s
+
+10kg 
+
+H2O, CO2
+C55H104O6, C60H120O6, C36H72O6 = C55H104O6
+C55H104O6 + 78O2 => 55CO2 + 52H2O
+C55H104O6 + 78O2 => 55CO2 + 52H2O + energy
+H:1 C:12 O:16
+
+===== How the power of attention changes everything
+https://www.youtube.com/watch?v=vfvD_jt9R-s
+
+===== Fake Bitcoin' - How this Woman Scammed the World, then Vanished
+https://www.youtube.com/watch?v=64xcgvEJ3Ys
+
+===== It's Rocket Science! with Professor Chris Bishop
+https://www.youtube.com/watch?v=HESOat2iPzU
+
+===== Why Everything You Thought You Knew About Quantum Physics is Different
+https://www.youtube.com/watch?v=q7v5NtV8v6I
+
+===== The Absurdity of Detecting Gravitational Waves
+https://www.youtube.com/watch?v=iphcyNWFD10
+
+===== Quantum Entanglement Animated
+https://www.youtube.com/watch?v=1zD1U1sIPQ4
+
+===== Engineering with Origami
+https://www.youtube.com/watch?v=ThwuT3_AG6w
+
+https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/
+
+===== Consumerism
+https://www.youtube.com/watch?v=jtG6AE3oVM8&list=PLt73zlk4q1rw68cDfY53-6W89_2z4r1RR&index=407
+
+===== Chomsky & Krauss: An Origins Project Dialogue (OFFICIAL) - (Part 1/2)
+https://www.youtube.com/watch?v=Ml1G919Bts0
+
+===== หลวงปู่ฝากไว้ ตอนที่ 1
+https://www.youtube.com/watch?v=ms30eIEQ1eU
+===== หลวงปู่ฝากไว้ ตอนที่ 2
+https://www.youtube.com/watch?v=krxNFvIZafM
+
+===== Noam Chomsky: Our consumer culture has been created artificially
+https://www.youtube.com/watch?v=PjTbWLeOYUM
+
+===== Noam Chomsky The more you learn
+https://www.youtube.com/watch?v=KTDBWHnyojI
+
