@@ -69,3 +69,25 @@ https://www.youtube.com/watch?v=q7pI7IYaJLI
 
 ==== Regenerative Agriculture 
 https://www.youtube.com/playlist?list=PLRLvOlmv3cRbZ1-n8wBv1Hptm-G0vGZ_Q
+
+==== Learn How To Control Your Mind
+https://www.youtube.com/watch?v=v7KQsS2kLM4
+
+==== Take Back Your Power from Anyone Who Wronged You
+https://www.youtube.com/watch?v=cQ7ITHQav6s&list=PLJQrUSvEtfTheeqrqRY0Nr4A_mSu2YYbb&index=3
+
+===== Say "Thank You" - A Motivational Video
+https://www.youtube.com/watch?v=7uzynHWxn5Q&list=PLJQrUSvEtfTheeqrqRY0Nr4A_mSu2YYbb&index=1
+
+==== Highly Successful People Do This Everyday 
+https://www.youtube.com/watch?v=PS3ru_hsKIY
+
+==== What makes a good life? Lessons from the longest study
+https://www.youtube.com/watch?v=8KkKuTCFvzI&t=2s
+Good Relationship keep us Helthier and Happier
+1. Social Connections are good and loneliness kills
+2. Quality of relationship that matters, Helthier and Happier
+3. Protecting brains
+
+https://utaten.com/lyric/谷村新司/花/
+
