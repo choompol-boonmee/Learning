@@ -173,3 +173,39 @@ https://www.youtube.com/watch?v=UaSvS0grVjw
 epoxy putty
 black 50g
 
+FONA 3G/GSM+GPS
+SIM5320J
+https://thai.alibaba.com/product-detail/brazilian-3g-network-sim5320j-board-brazil-wcdma-sim-card-net-850-800-mhz-2100mhz-bands-60758595987.html?spm=a2700.8699010.normalList.59.2ced2021jRKPTB
+
+simcomsim5320j
+
+HTFY 502025
+
+===== Make your own GPS SMS Security Tracking System
+https://www.youtube.com/watch?v=CeStrH-5Llo&t=83s
+
+===== Ai-Thinker ESP32-CAM in the Arduino IDE
+https://robotzero.one/esp32-cam-arduino-ide/
+===== ESP32-CAM | ESP32 Camera Module with Face Recognition
+https://robotzero.one/esp32-camera-module/
+
+. /Users/apple/Documents/wk19/esp32a/esp-idf/export.sh
+
+https://github.com/espressif/esp32-camera
+https://github.com/builderbook/builderbook
+
+===== PiVPN : How to Run a VPN Server on a $35 Raspberry Pi!
+https://www.youtube.com/watch?v=15VjDVCISj0===== Hack All The Things: 20 Devices in 45 Minutes
+https://www.youtube.com/watch?v=h5PRvBpLuJs
+
+===== EASYEDA
+https://www.youtube.com/watch?v=utBQqcuOt9U
+
+===== Which radio module? NRF24, LoRa, CC1101, HC12, 433MHz, HC05
+https://www.youtube.com/watch?v=vxF1N9asjts
+
+===== From Idea to Schematic to PCB - How to do it easily!
+https://www.youtube.com/watch?v=35YuILUlfGs&t=419s
+
+
+
