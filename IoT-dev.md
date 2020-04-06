@@ -123,4 +123,28 @@ https://www.youtube.com/watch?v=a6mjt8tWUws
 ====== Raspberry Pi 4 Coolers
 https://www.youtube.com/watch?v=qa3YnWhzPsw
 
+==== MQTT Publish and Subscribe Using Node Red
+https://www.youtube.com/watch?v=XDrwgMSQrEY
+
+https://www.youtube.com/watch?v=eZUSQ1y6kSM
+https://www.youtube.com/watch?v=oo6AjJia6ko
+
+==== How to Create a Node-Red MQTT Dashboard
+https://www.youtube.com/watch?v=Gu0Vq2kVNzw
+
+
+sudo npm install -g --unsafe-perm node-red
+http://127.0.0.1:1880/
+
+==== MQTT
+http://www.steves-internet-guide.com/mqtt/
+http://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/MQTT_V3.1_Protocol_Specific.pdf
+http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/
+http://www.steves-internet-guide.com/mqtt-websockets/
+
+https://www.youtube.com/watch?time_continue=3&v=EvUI4vRhF88&feature=emb_logo
+
+Solar Panels 5V6V2W
+
+https://www.youtube.com/watch?v=z8gn10cd1ak&list=PLCXuw9Nip35iVXThOJVOWpkLDbC5iIHwh
 
