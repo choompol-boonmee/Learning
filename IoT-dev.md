@@ -148,3 +148,28 @@ Solar Panels 5V6V2W
 
 https://www.youtube.com/watch?v=z8gn10cd1ak&list=PLCXuw9Nip35iVXThOJVOWpkLDbC5iIHwh
 
+===== IP Camera
+https://public-camera.com/en/how-to-connect-ipcamera.html
+https://www.ispyconnect.com/man.aspx?n=Generic
+https://www.ispyconnect.com/download.aspx
+
+===== IP Camera Default Usernames Password and IP Addresses
+https://www.tecnicgroup.com.au/ip-camera-default-usernames-password-and-ip-addresses/
+
+===== LIST OF EVERY IP CAMERA DEFAULT USERNAME PASSWORD AND IP ADDRESS
+https://www.hitechmv.com/list-of-every-ip-camera-default-username-password-and-ip-address/
+
+===== IP camera default password list (2019)
+https://learncctv.com/ip-camera-default-password/
+
+AMERICALOC GL300W Mini Portable Real-Time GPS Tracker
+TK08 Mini GPS Tracker
+BARTUN AIBEILE Personal Mini Micro GPS Tracker Locator
+Mini GPS Tracker TKSTAR
+
+==== Make your own GPS SMS Security Tracking System
+https://www.youtube.com/watch?v=CeStrH-5Llo&t=83s
+https://www.youtube.com/watch?v=UaSvS0grVjw
+epoxy putty
+black 50g
+
