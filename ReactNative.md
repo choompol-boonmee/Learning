@@ -56,4 +56,31 @@ https://www.youtube.com/watch?v=Ke90Tje7VS0
 https://www.youtube.com/watch?v=3AR432bguOY&list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw
 IPM
 
+codesandbox.io
+reactjs.org
+
+nvm install 10.15.3
+nvm use 10.15.3
+
+nvm install 12.15.0
+nvm use 12.15.0
+npx create-react-app my-app
+
+npx create-react-app monsters-rolodex
+
+chrome extension how to
+44. Deploy 5:00 => Git Hub
+45. React & ReactDOM
+
+yarn list react react-dom react-script
+57,58 GitHub
+
+yarn add node-sass
+git remote add origin git@...
+git status
+git add -A
+git commit -m "SSSSS"
+git push origin master
+
+66. Routing
 
