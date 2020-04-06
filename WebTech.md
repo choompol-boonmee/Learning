@@ -21,3 +21,9 @@ yarn add firebase
 ===== Kong Ruksiam
 https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q
 
+==== JavaScripts: Understanding the Weird Parts - The First 3.5 Hours
+https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
+https://www.indiehackers.com
+http://google.com/chrome
+http://brackets.io
+
