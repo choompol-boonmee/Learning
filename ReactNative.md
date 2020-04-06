@@ -84,3 +84,104 @@ git push origin master
 
 66. Routing
 
+npx expo-cli init ?
+yelp.com/fusion
+
+
+npm install react-navigation
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install react-navigation-stack @react-native-community/masked-view
+
+npm start -c
+
+==== ERROR
+rm -r node_modules
+rm package-lock.json
+expo upgrade
+npm start -c
+
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack'
+
+github.com/expo/vector-icons
+npm install axios
+
+==================================================
+===== index.html
+<form action="/profile" method="post" enctype="multipart/form-data">
+  <input type="file" name="avatar" />
+</form>
+
+===== app.jsp
+var express = require('express')
+var multer  = require('multer')
+var upload = multer({ dest: 'uploads/' })
+var app = express()
+app.post('/profile', upload.single('avatar'), function (req, res, next) {
+  // req.file is the `avatar` file
+  // req.body will hold the text fields, if there were any
+})
+==================================================
+===== package.json
+{
+  "name": "file-upload",
+  "version": "0.0.1",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "multer": "^0.1.8"
+  }
+}
+===== index.html
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Sample File Upload</title>
+</head>
+<body>
+	<form action="/srv06/upload" method="post" enctype="multipart/form-data">
+		<input type="file" name="avatar">
+		<input type="submit" value="Upload">
+	</form>
+</body>
+</html>
+===== app.jsp
+var express = require('express');
+var multer = require('multer');
+var storage = multer.diskStorage({
+  destination: function (req, file, cb) {
+    cb(null, 'uploads/')
+  },
+  filename: function (req, file, cb) {
+    const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1E9)
+    cb(null, file.fieldname + '-' + uniqueSuffix)
+  }
+})
+var upload = multer({ storage: storage })
+var app = express();
+app.get('/srv06', function(req, res) {
+	res.sendFile(__dirname + '/index.html');
+});
+app.post('/srv06/upload', upload.single('avatar')
+	, function (req, res, next) {
+	// req.file is the `avatar` file
+	// req.body will hold the text fields, if there were any
+	res.send(req.body);
+	res.send(req.file);
+});
+app.listen();
+
+===== Create a React Native App and Run it on the 
+https://egghead.io/lessons/react-native-create-a-react-native-app-and-run-it-on-the-ios-simulator-and-android-emulator
+
+1. ReactNative drawing
+https://github.com/terrylinla/react-native-sketch-canvas
+https://www.npmjs.com/package/@gigasz/react-native-sketch-canvas
+https://www.npmjs.com/package/react-canvas-draw
+
+2. ReactNative share
+https://www.npmjs.com/package/react-native-share-menu
+https://github.com/react-native-community/react-native-share
+
+
