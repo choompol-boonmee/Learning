@@ -67,3 +67,6 @@ https://www.youtube.com/watch?v=dFlYnL_SHQc
 ==== The thrilling potential for off-grid solar energy
 https://www.youtube.com/watch?v=20adDr7Felw
 
+Quantum Entanglement Animated
+https://www.youtube.com/watch?v=1zD1U1sIPQ4
+
