@@ -71,3 +71,7 @@ Quantum Entanglement Animated
 https://www.youtube.com/watch?v=1zD1U1sIPQ4
 
 https://www.youtube.com/?gl=TH&tab=w11
+
+==== รีวิวชุดสลับไฟอัตโนมัติ (การต่อใช้งานครับผม)ไทยทำ
+https://www.youtube.com/watch?v=2y1yBOvlrNE
+
