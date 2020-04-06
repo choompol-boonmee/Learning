@@ -34,3 +34,26 @@ https://www.youtube.com/watch?v=f31CXGeF468
 ==== 忘れていいの　大地真央
 https://www.youtube.com/watch?v=AQE8UT9qsy0
 
+===== 流星 🌠谷村新司 Shinji Tanimura
+https://www.youtube.com/watch?v=jmtKVDQWozo
+
+===== 2001陽はまた昇る 谷村新司 Shinji Tanimura
+https://www.youtube.com/watch?v=3Al5PnWYnnw
+
+===== 谷村新司　群青
+https://www.youtube.com/watch?v=hLObHOcr11k
+
+===== 谷村新司
+http://www.tanimura.com
+
+===== Heart in Heart💗Shinji Tanimura 谷村新司
+https://www.youtube.com/watch?v=kcJr_AExTOA
+
+醍醐味 Daigomi
+描写 Byōsha
+錯誤 Sakugo
+鍛え Kitae
+太刀打ち tachiuchi
+贅沢 zeitaku
+癖 kuse
+
