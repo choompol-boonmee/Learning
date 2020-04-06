@@ -1,8 +1,10 @@
 # korean
 
-[Learn Korean Pronunciation in 12 Minutes](https://www.youtube.com/watch?v=Ww5BdOhyST8)
-
 [Introduction to Korean Pronunciation](https://www.youtube.com/watch?v=MCBJ1cQ1n0w)
+
+[Introduction to Korean Grammar](https://www.youtube.com/watch?v=LsrSPsttDs8)
+
+[Learn Korean Pronunciation in 12 Minutes](https://www.youtube.com/watch?v=Ww5BdOhyST8)
 
 [Korean Pronunciation for Beginners!](https://www.youtube.com/watch?v=5wLmoWCMUQQ)
 
