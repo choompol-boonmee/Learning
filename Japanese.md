@@ -28,3 +28,9 @@ https://www.youtube.com/watch?v=TyapKDAhr4E
 https://www.youtube.com/watch?v=agfjU6y7J0I
 https://www.youtube.com/watch?v=D7CssS7G_CQ
 
+==== プリンセス・プリンセス　　Diamonds
+https://www.youtube.com/watch?v=f31CXGeF468
+
+==== 忘れていいの　大地真央
+https://www.youtube.com/watch?v=AQE8UT9qsy0
+
