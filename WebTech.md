@@ -17,53 +17,44 @@
 npx create-react-app my-app
 cd my-app
 npm start
+```
+===== 
+[Complete React Tutorial (& Redux) #26](https://www.youtube.com/watch?v=AILU8hl-dmo)
 
-===== Complete React Tutorial (& Redux) #26
-https://www.youtube.com/watch?v=AILU8hl-dmo
+```
 yarn add firebase
 
 ==== react RDF
 ==== excess upload
 ==== nodejs file write
+```
 
-===== Kong Ruksiam
-https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q
+[JavaScripts: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
-==== JavaScripts: Understanding the Weird Parts - The First 3.5 Hours
-https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
-https://www.indiehackers.com
-http://google.com/chrome
-http://brackets.io
 
-Relay
-The production-ready GraphQL
-https://relay.dev/en/
+[Relay: The production-ready GraphQL client for React](https://relay.dev/en/)
 
-===== Gradient descent, how neural networks learn
-https://www.youtube.com/watch?v=IHZwWFHWa-w
+[Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
-===== Neural Network & Deep Learning
-http://neuralnetworksanddeeplearning.com
+[Neural Network & Deep Learning](http://neuralnetworksanddeeplearning.com)
 
-https://github.com/mnielsen/neural-networks-and-deep-learning
+[Code samples for "Neural Networks and Deep Learning"](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
-https://www.youtube.com/watch?v=SWYqp7iY_Tc
+[Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-===== How to Create Image Slider Using HTML and CSS
-https://www.youtube.com/watch?v=FZrHoAUkHpE
-https://flatuicolors.com
+[ How to Create Image Slider Using HTML and CSS](https://www.youtube.com/watch?v=FZrHoAUkHpE)
 
-===== Visualizing Dynamic Networks
-https://www.youtube.com/watch?v=EvO4HwI7Zi4
+[Flat UI Colors 2](https://flatuicolors.com]
 
-https://lod-cloud.net
-http://en.lodlive.it
-LodLive
-http://philogb.github.io/jit/demos.html
+[Visualizing Dynamic Networks](https://www.youtube.com/watch?v=EvO4HwI7Zi4)
 
-===== GraphStream is a Java library for the modeling and analysis of dynamic graphs
-http://graphstream-project.org
-https://www.graphstream.com
+[The Linked Open Data Cloud](https://lod-cloud.net)
+
+[LodLive project](http://en.lodlive.it)
+
+[JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html)
+
+[GraphStream is a Java library for the modeling and analysis of dynamic graphs](http://graphstream-project.org)(https://www.graphstream.com)
 
 ===== RDF JavaScript Libraries
 https://rdf.js.org
