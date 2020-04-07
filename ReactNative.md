@@ -74,16 +74,17 @@ chrome extension how to
 
 yarn list react react-dom react-script
 57,58 GitHub
-
+```
 yarn add node-sass
 git remote add origin git@...
 git status
 git add -A
 git commit -m "SSSSS"
 git push origin master
-
+```
 66. Routing
 
+```
 npx expo-cli init ?
 yelp.com/fusion
 
@@ -107,6 +108,7 @@ import { createStackNavigator } from 'react-navigation-stack'
 
 github.com/expo/vector-icons
 npm install axios
+```
 
 ==================================================
 ===== index.html
@@ -134,6 +136,7 @@ app.post('/profile', upload.single('avatar'), function (req, res, next) {
   }
 }
 ===== index.html
+```
 <!DOCTYPE html>
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -171,6 +174,7 @@ app.post('/srv06/upload', upload.single('avatar')
 	res.send(req.file);
 });
 app.listen();
+```
 
 ===== Create a React Native App and Run it on the 
 https://egghead.io/lessons/react-native-create-a-react-native-app-and-run-it-on-the-ios-simulator-and-android-emulator
