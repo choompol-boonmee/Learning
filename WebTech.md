@@ -44,7 +44,7 @@ yarn add firebase
 
 [ How to Create Image Slider Using HTML and CSS](https://www.youtube.com/watch?v=FZrHoAUkHpE)
 
-[Flat UI Colors 2](https://flatuicolors.com]
+[Flat UI Colors 2](https://flatuicolors.com)
 
 [Visualizing Dynamic Networks](https://www.youtube.com/watch?v=EvO4HwI7Zi4)
 
@@ -54,23 +54,23 @@ yarn add firebase
 
 [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html)
 
-[GraphStream is a Java library for the modeling and analysis of dynamic graphs](http://graphstream-project.org)(https://www.graphstream.com)
+[GraphStream is a Java library for the modeling and analysis of dynamic graphs](http://graphstream-project.org)
 
-===== RDF JavaScript Libraries
-https://rdf.js.org
+[GraphStream](https://www.graphstream.com)
 
+[RDF JavaScript Libraries](https://rdf.js.org)
+
+```
 how to visualize dynamic network
 time slider
 calendar
+```
 
-===== sigmajs
-http://sigmajs.org
+[sigmajs](http://sigmajs.org)
 
-===== Gephi is the leading visualization and exploration software for all kinds of graphs
-https://gephi.org
+[Gephi is the leading visualization and exploration software for all kinds of graphs](https://gephi.org)
 
-===== vis.js community edition
-https://visjs.org
+[vis.js community edition](https://visjs.org)
 
 ===== 11 Javascript Data Visualization Libraries for 2019
 https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
