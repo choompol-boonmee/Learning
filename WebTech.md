@@ -1,14 +1,19 @@
 
 [classic-jekyll-theme](https://github.com/choompol-boonmee/classic-jekyll-theme)
 
-https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q
+[Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q)
 
-https://www.w3.org/community/rdfjs/wiki/Comparison_of_RDFJS_libraries
-https://github.com/awwright/node-rdf
-https://github.com/fletcher91/link-redux
-http://ceur-ws.org/Vol-1303/invited_paper_1.pdf
-https://www.stardog.com/blog/stardog-react-5-easy-steps/
+[Comparison of RDFJS libraries](https://www.w3.org/community/rdfjs/wiki/Comparison_of_RDFJS_libraries)
 
+[RDF for ECMAScript](https://github.com/awwright/node-rdf)
+
+[Link-Redux](https://github.com/fletcher91/link-redux)
+
+[RDF Stream Processing: Let’s React](http://ceur-ws.org/Vol-1303/invited_paper_1.pdf)
+
+[Stardog React: 5 Easy Steps](https://www.stardog.com/blog/stardog-react-5-easy-steps/)
+
+```
 npx create-react-app my-app
 cd my-app
 npm start
