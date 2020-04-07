@@ -1,5 +1,4 @@
-# Learning
+# เรียนรู้
 
-- [Korean Language](KoreanLang.md)
-- [Blender](Blender.md)
-- [Kha Nom Jin Nam Ya Tai](Nam-Ya-Tai.md)
+- [01.มนุษย์.md](01.มนุษย์.md)
+- [02.อะนิเมชั่น.md](02.อะนิเมชั่น.md)
