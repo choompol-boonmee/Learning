@@ -1,0 +1,74 @@
+import React from 'react';
+
+import { Button, Text, View, TouchableOpacity, StyleSheet } from 'react-native';
+
+import { Ionicons } from 'react-native-vector-icons';
+
+import {
+  createStackNavigator,
+  createBottomTabNavigator,
+  createAppContainer,
+} from 'react-navigation';
+
+class CheckScreen extends React.Component {
+  static navigationOptions = {
+  };
+  render() {
+    return (
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+        <Text>CHECK</Text>
+      </View>
+    );
+  }
+}
+
+class Check2Screen extends React.Component {
+  static navigationOptions = {
+  };
+  render() {
+    return (
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+        <Text>CHECK2</Text>
+      </View>
+    );
+  }
+}
+
+const HomeStack = createStackNavigator(
+  {
+    Check2: { screen: Check2Screen },
+    Check: { screen: CheckScreen },
+  },
+);
+
+const CategoriesStack = createStackNavigator(
+  {
+    //Defination of Navigaton from home screen
+    Check1: { screen: CheckScreen },
+    Check2: { screen: Check2Screen },
+  },
+  {
+    defaultNavigationOptions: {
+      headerTintColor: '#FFFFFF',
+    },
+  }
+);
+
+const App = createBottomTabNavigator(
+  {
+    Home: { 
+      screen: HomeStack,
+      navigationOptions: {
+        tabBarLabel: 'MENU1',
+      }
+    },
+    Categories: { 
+      screen: CategoriesStack,
+      navigationOptions: {
+        tabBarLabel: 'MENU2',
+      }
+    },
+  },
+);
+
+export default createAppContainer(App);
