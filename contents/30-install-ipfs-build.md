@@ -36,33 +36,33 @@ vi ~/.ipfs/config
     "StorageMax": "1GB"
   }
 
-    "Gateway": "/ip4/0.0.0.0/tcp/8080"
+  "Gateway": "/ip4/0.0.0.0/tcp/8080"
 
-    "HTTPHeaders": {
-       "Access-Control-Allow-Headers": [
-          "X-Requested-With",
-          "Access-Control-Expose-Headers",
-          "Range"
-       ],
-       "Access-Control-Expose-Headers": [
-          "Location",
-          "Ipfs-Hash"
-       ],
-       "Access-Control-Allow-Methods": [
-          "POST",
-          "GET"
-       ],
-       "Access-Control-Allow-Origin": [
-          "*"
-       ],
-       "X-Special-Header": [
-          "Access-Control-Expose-Headers: Ipfs-Hash"
-       ]
-    },
-    "RootRedirect": "",
-    "Writable": true,
-    "PathPrefixes": [],
-    "APICommands": [],
+   "HTTPHeaders": {
+      "Access-Control-Allow-Headers": [
+         "X-Requested-With",
+         "Access-Control-Expose-Headers",
+         "Range"
+      ],
+      "Access-Control-Expose-Headers": [
+         "Location",
+         "Ipfs-Hash"
+      ],
+      "Access-Control-Allow-Methods": [
+         "POST",
+         "GET"
+      ],
+      "Access-Control-Allow-Origin": [
+         "*"
+      ],
+      "X-Special-Header": [
+         "Access-Control-Expose-Headers: Ipfs-Hash"
+      ]
+   },
+   "RootRedirect": "",
+   "Writable": true,
+   "PathPrefixes": [],
+   "APICommands": [],
 <<<<<<
 sudo supervisorctl start ipfs
 
