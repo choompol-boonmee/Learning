@@ -15,7 +15,7 @@ git clone https://github.com/ipfs/go-ipfs.git
 cd go-ipfs
 make install
 
-sudo ipfs init --profile server
+ipfs init --profile server
 ipfs cat /ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/readme
 
 sudo apt-get install -y supervisor
