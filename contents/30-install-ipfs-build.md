@@ -23,7 +23,7 @@ sudo vi /etc/supervisor/supervisord.conf
 >>>>>
 [program:ipfs]
 environment=IPFS_PATH=/home/num/.ipfs
-command=ipfs daemon
+command=/home/num/go/bin/ipfs daemon
 <<<<<
 sudo supervisorctl reread && sudo supervisorctl update
 sudo supervisorctl status
