@@ -1,4 +1,4 @@
-‘‘‘
+
 wget -c https://storage.googleapis.com/golang/go1.15.1.linux-amd64.tar.gz
 sudo tar -xvf go1.15.1.linux-amd64.tar.gz
 sudo mv go /usr/local
@@ -71,4 +71,4 @@ http://node01.popiang.com:8080/ipfs/QmW2WQi7j6c7UgJTarActp7tDNikE4B2qXtFCfLPdsga
 ipfs swarm peers
 ipfs id
 
-‘‘‘
+
