@@ -1,4 +1,4 @@
-‘‘‘
+```
 1. create none at digital ocean and get ip addr
 2. set dns for the node, and stun/turn
 3. login to the server
@@ -16,4 +16,4 @@ sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt-get install -y net-tools
 sudo lsof -i -P -n | grep LISTEN
-‘‘‘
+
