@@ -63,6 +63,16 @@ vi ~/.ipfs/config
    "Writable": true,
    "PathPrefixes": [],
    "APICommands": [],
+
+  "DisableRelay": false,
+  "EnableRelayHop": true
+
+"Swarm": [
+    ...
+    "/ip4/0.0.0.0/tcp/4004/ws",
+    ...
+  ],
+
 <<<<<<
 sudo supervisorctl start ipfs
 
