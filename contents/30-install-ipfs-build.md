@@ -1,4 +1,4 @@
-
+```
 wget -c https://storage.googleapis.com/golang/go1.15.1.linux-amd64.tar.gz
 sudo tar -xvf go1.15.1.linux-amd64.tar.gz
 sudo mv go /usr/local
