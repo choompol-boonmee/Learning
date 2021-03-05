@@ -1,7 +1,7 @@
-```
 TAOISM | The Art of Not Trying
-https://youtu.be/tLAZvESoVgI
+<https://youtu.be/tLAZvESoVgI>
 
+```
 =================================================
 Those who stand on tiptoes do not stand firmly.
 Those who rush ahead don’t get very far.
