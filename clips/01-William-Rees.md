@@ -1,7 +1,7 @@
-```
 Resilient Cities: What if 'can-do' can't? (PCI Fellow William Rees)
-https://youtu.be/ugv0OY6LyuE
+<https://youtu.be/ugv0OY6LyuE>
 
+```
 
 00:00
 pleasure now to introduce one of
