@@ -217,5 +217,20 @@ https://youtu.be/p8u_k2LIZyo
 The Art of Code - Dylan Beattie
 https://youtu.be/6avJHaC3C2U
 
+The Art of Code - Dylan Beattie
+https://youtu.be/6avJHaC3C2U
+
+Introduction to IPFS: Run Nodes on Your Network, with HTTP Gateways
+https://rossbulat.medium.com/introduction-to-ipfs-set-up-nodes-on-your-network-with-http-gateways-10e21ea689a4
+
+The go-ipfs config file
+https://github.com/ipfs/go-ipfs/blob/v0.4.15/docs/config.md
+
+IPFS Tutorial: Building a Private IPFS Network with IPFS-Cluster for Data Replication
+https://labs.eleks.com/2019/03/ipfs-network-data-replication.html
+
+AMA with Brave and IPFS
+https://brave.com/ama-with-brave-and-ipfs/
+
 
 ```
