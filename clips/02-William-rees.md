@@ -1,7 +1,7 @@
-```
 William Rees: Post-doom with Michael Dowd and Connie Barlow
-https://youtu.be/j__AW5pycaA
+<https://youtu.be/j__AW5pycaA>
 
+```
 
 00:17
 you mentioned the ecological footprint I
