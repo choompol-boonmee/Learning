@@ -15,6 +15,10 @@ java -cp "jflex" PostProc
 ./gradlew run --args='../ipdept/'
 
 app/src/main/java/ttl02/
+21 months
+
+Oct 
+Dec 
 
 jTextArea.getDocument().addDocumentListener(new DocumentListener() {
 	@Override
