@@ -1,4 +1,4 @@
-‘‘‘
+```
 ========================== SELF SIGNED NGINX1 BEGIN
 sudo apt-get install -y nginx
 curl -4 localhost
@@ -157,4 +157,4 @@ sudo nginx -t
 sudo systemctl restart nginx
 ========================== SELF SIGNED NGINX3 END
 
-‘‘‘
+```
