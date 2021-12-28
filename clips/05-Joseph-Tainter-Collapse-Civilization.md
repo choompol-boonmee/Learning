@@ -1,7 +1,7 @@
+<https://youtu.be/JsT9V3WQiNA>
 ```
 
 Joseph Tainter on The Dynamics of the Collapse of Human Civilization
-https://youtu.be/JsT9V3WQiNA
 
 okay
 so since you're the expert i'm just
