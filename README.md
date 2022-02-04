@@ -1,3 +1,4 @@
+```
 use std::process::*;
 use std::io::stdout;
 use std::io::Write;
@@ -19,4 +20,4 @@ fn main() {
         thread::sleep(time::Duration::from_secs(waitsec));
     }   
 }
-
+```
